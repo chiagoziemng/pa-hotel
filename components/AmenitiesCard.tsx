@@ -18,7 +18,6 @@ export default function AmenitiesCard({
 }: AmenitiesCardProps) {
   const Icon = {
     Waves,
-  
     Utensils,
     Wifi,
     Calendar,
