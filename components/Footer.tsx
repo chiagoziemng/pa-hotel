@@ -9,17 +9,32 @@ export default function Footer() {
               Pameec Luxury
             </p>
             <p className="mt-3 text-sm font-lora text-[#F5F1E9]">
-              456 Serenity Lane, Bliss City, 12345
+            Lokogoma Address - Plot 354 Apo/Lokogoma Express Way, Abuja
+            </p>
+            <p className="mt-3 text-sm font-lora text-[#F5F1E9]">
+            Utako Address - No 36 Ajose Adeogun Street, Abuja
+            </p>
+            <p className="mt-3 text-sm font-lora text-[#F5F1E9]">
+            Utako Apartment Address - No 4 Henry Adefope Close, Abuja
             </p>
           </div>
   
           {/* Contact Info */}
           <div>
             <p className="text-sm font-lora text-[#F5F1E9]">
-              Email: <a href="mailto:reservations@pameec-luxury.com" className="hover:text-[#D4AF37] transition-colors duration-300">reservations@pameec-luxury.com</a>
+              Email: <a href="mailto:reservations@pameec-luxury.com" className="hover:text-[#D4AF37] transition-colors duration-300">reservations@pameec-luxury.com.ng</a>
             </p>
             <p className="mt-2 text-sm font-lora text-[#F5F1E9]">
-              Phone: <a href="tel:+5551234567" className="hover:text-[#D4AF37] transition-colors duration-300">(555) 123-4567</a>
+              Phone: <a href="tel:+2348166065843" className="hover:text-[#D4AF37] transition-colors duration-300">(+234) 816 606 5843 - Pameec Hotel Lokogoma</a>
+            </p>
+            <p className="mt-2 text-sm font-lora text-[#F5F1E9]">
+              Phone: <a href="tel:+2349014084741" className="hover:text-[#D4AF37] transition-colors duration-300">(+234) 901 408 4741 - Pameec Hotel Utako</a>
+            </p>
+            <p className="mt-2 text-sm font-lora text-[#F5F1E9]">
+              Phone: <a href="tel:+2347033134119" className="hover:text-[#D4AF37] transition-colors duration-300">(+234) 703 313 4119 - Pameec Apartment Utako</a>
+            </p>
+            <p className="mt-2 text-sm font-lora text-[#F5F1E9]">
+              Phone: <a href="tel:+2348131577816" className="hover:text-[#D4AF37] transition-colors duration-300">(+234) 813 157 7816 - Toll Free</a>
             </p>
           </div>
   
