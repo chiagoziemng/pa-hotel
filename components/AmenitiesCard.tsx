@@ -4,7 +4,7 @@
 import { Waves, Utensils, Wifi, Calendar } from "lucide-react";
 
 interface AmenitiesCardProps {
-  iconName: "Waves" | "Spa" | "Utensils" | "Wifi" | "Calendar";
+  iconName: "Waves" | "Utensils" | "Wifi" | "Calendar";
   title: string;
   description: string;
   onClickMessage: string;
